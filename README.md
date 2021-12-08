@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"><br/>
+ <a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/linkedin-Santiago%20Laight-blue?style=round-square&logo=linkedin">
+ </a>
+ <a href="mailto:irenegarciadeparedes@outlook.es">
+  <img src="https://img.shields.io/badge/Email-snlaight10%40gmail.com-red?style=round-square&logo=gmail&logoColor=white">
+ </a>
+</p>

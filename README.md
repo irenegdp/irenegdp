@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m a **Full-Stack Developer** with a certification from <a href="https://letscoder.com">**Let's Coder**</a> (graduated in 2021)
+
 <!--
 **irenegdp/irenegdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

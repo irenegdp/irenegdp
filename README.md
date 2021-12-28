@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/irene-garciadeparedes-perez">
       <img src= https://img.shields.io/static/v1?label=Linkedin&labelColor=333969&message=Irene&color=9cf&style=flat-square&logo=linkedin>
     </a>
-    <img src= https://img.shields.io/static/v1?label=Mail&labelColor=791237&message=irenegdp94@gmail.com&color=f41515&style=flat-square&logo=gmail>
+    <img src= https://img.shields.io/static/v1?label=Mail&labelColor=791237&message=irenegarciadeparedes@outlook.es&color=f41515&style=flat-square&logo=gmail>
     
   </p>
   

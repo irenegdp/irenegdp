@@ -35,7 +35,7 @@ I also studied a *bachelor's degree in **mechanical engineering*** and a *master
 ![HTML](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=HTML&color=F46246&logo=HTML5&style=flat-square)
 ![Git](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Git&color=F41515&logo=Git&style=flat-square)  
 
-![CSS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=CSS&color=145da0&logo=CSS3&logoColor=orange&style=flat-square)
+![CSS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=CSS&color=145da0&logo=CSS3&logoColor=blue&style=flat-square)
 ![Bootstrap](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Bootstrap&color=49326B&logo=Bootstrap&style=flat-square)
 ![Mui](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Mui&color=145da0&logo=Mui&style=flat-square)  
 

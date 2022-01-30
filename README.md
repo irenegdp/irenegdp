@@ -44,6 +44,8 @@ I also studied a *bachelor's degree in **mechanical engineering*** and a *master
 ### :mag: Looking for
 I'm interested in front-end development, back-end development & full-stack development.
 
-
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenegdp&layout=default&langs_count=7&theme=buefy&card_height=100"/>
+</a> -->
 
 

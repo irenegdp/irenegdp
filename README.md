@@ -48,4 +48,8 @@ I'm interested in front-end development, back-end development & full-stack devel
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenegdp&layout=default&langs_count=7&theme=buefy&card_height=100"/>
 </a> -->
 
+### :mailbox_with_mail: Contact
+<a href="www.linkedin.com/in/irene-garciadeparedes-perez"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
+<a href = "mailto:irenegarciadeparedes@outlook.es"><img src="https://user-images.githubusercontent.com/95754356/151697862-740c9eb4-e3ad-4399-bec6-2b15664682b6.png"  alt="Correo" width="40" height="40"></a>
+
 

@@ -1,8 +1,9 @@
-### Hi there 👋 I'm Irene and here is my CV :point_down:
+### Hi there 👋 I'm Irene and I'm a engineer and developer
+<!-- I'm Irene and here is my CV :point_down: -->
 
 
 
- <h1 align="center"> FULL STACK DEVELOPER </h1>
+<!--  <h1 align="center"> FULL STACK DEVELOPER </h1>
  
   <p align="center"> 
     <a href="https://www.linkedin.com/in/irene-garciadeparedes-perez">
@@ -10,9 +11,9 @@
     </a>
     <img src= https://img.shields.io/static/v1?label=Mail&labelColor=791237&message=irenegarciadeparedes@outlook.es&color=f41515&style=flat-square&logo=gmail>
     
-  </p>
+  </p> -->
   
-### :mortar_board: Studies 
+<!-- ### :mortar_board: Studies 
 Recently I've studied **Full stack developer (MERN)** graduated from <a href="https://letscoder.com">*Let's Coder*</a> on December 2021.
 But my tech career didn't start here... furthermore I learned
   * Digital transformation and industry 4.0  
@@ -21,7 +22,7 @@ But my tech career didn't start here... furthermore I learned
   * CCNA: Introduction to Networking  
   * CyberOps Associate
 
-I also studied a *bachelor's degree in **mechanical engineering*** and a *master's degree in **automotive engineering*** :car:
+I also studied a *bachelor's degree in **mechanical engineering*** and a *master's degree in **automotive engineering*** :car: -->
 
 ### 🛠️ Technical skills
 ![MongoDB](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=MongoDB&color=4a6f73&logo=mongodb&style=flat-square)
@@ -40,7 +41,7 @@ I also studied a *bachelor's degree in **mechanical engineering*** and a *master
 ![Mui](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Mui&color=145da0&logo=Mui&style=flat-square)  
 
 ![Wordpress](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Wordpress&color=145da0&logo=Wordpress&logoColor=blue&style=flat-square)
-
+<!-- 
 ### :mag: Looking for
 I'm interested in front-end development, back-end development & full-stack development.
 

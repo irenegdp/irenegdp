@@ -1,7 +1,34 @@
-### Hi there 👋 I'm Irene and I'm a engineer and developer
+### Hi there 👋 I'm Irene
+
+ <h6 aling="center"><i> I studied Mechanical Engineering and even I worked on it but I changed my mind and now I want to be a programmer</i> </h6>
+ 
+### 🛠️ Technical skills
+![MongoDB](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=MongoDB&color=4a6f73&logo=mongodb&style=flat-square)
+![ExpressJS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=ExpressJS&color=F1F1F2&logo=express&logoColor=black&style=flat-square)
+![ReactJS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=ReactJS&color=145da0&logo=react&style=flat-square)
+![NodeJS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=NodeJS&color=4a6f73&logo=node.js&style=flat-square)  
+
+![JavaScript](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=JavaScript&color=fad02c&logo=javaScript&style=flat-square)
+![Python](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Python&color=145da0&logo=Python&style=flat-square)
+
+![HTML](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=HTML&color=F46246&logo=HTML5&style=flat-square)
+![Git](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Git&color=F41515&logo=Git&style=flat-square)  
+
+![CSS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=CSS&color=145da0&logo=CSS3&logoColor=blue&style=flat-square)
+![Bootstrap](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Bootstrap&color=49326B&logo=Bootstrap&style=flat-square)
+![Mui](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Mui&color=145da0&logo=Mui&style=flat-square)  
+
+![Wordpress](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Wordpress&color=145da0&logo=Wordpress&logoColor=blue&style=flat-square)
+
+
+
+
+
+
+
+
+
 <!-- I'm Irene and here is my CV :point_down: -->
-
-
 
 <!--  <h1 align="center"> FULL STACK DEVELOPER </h1>
  
@@ -24,23 +51,8 @@ But my tech career didn't start here... furthermore I learned
 
 I also studied a *bachelor's degree in **mechanical engineering*** and a *master's degree in **automotive engineering*** :car: -->
 
-### 🛠️ Technical skills
-![MongoDB](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=MongoDB&color=4a6f73&logo=mongodb&style=flat-square)
-![ExpressJS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=ExpressJS&color=F1F1F2&logo=express&logoColor=black&style=flat-square)
-![ReactJS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=ReactJS&color=145da0&logo=react&style=flat-square)
-![NodeJS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=NodeJS&color=4a6f73&logo=node.js&style=flat-square)  
 
-![JavaScript](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=JavaScript&color=fad02c&logo=javaScript&style=flat-square)
-![Python](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Python&color=145da0&logo=Python&style=flat-square)
 
-![HTML](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=HTML&color=F46246&logo=HTML5&style=flat-square)
-![Git](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Git&color=F41515&logo=Git&style=flat-square)  
-
-![CSS](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=CSS&color=145da0&logo=CSS3&logoColor=blue&style=flat-square)
-![Bootstrap](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Bootstrap&color=49326B&logo=Bootstrap&style=flat-square)
-![Mui](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Mui&color=145da0&logo=Mui&style=flat-square)  
-
-![Wordpress](https://img.shields.io/static/v1?label=&labelColor=F1F1F2&message=Wordpress&color=145da0&logo=Wordpress&logoColor=blue&style=flat-square)
 <!-- 
 ### :mag: Looking for
 I'm interested in front-end development, back-end development & full-stack development.
